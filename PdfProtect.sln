@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PdfProtect", "PdfProtect\PdfProtect.csproj", "{A5E1D6F4-33CD-49B3-A7C2-EE8B93080280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5E1D6F4-33CD-49B3-A7C2-EE8B93080280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5E1D6F4-33CD-49B3-A7C2-EE8B93080280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5E1D6F4-33CD-49B3-A7C2-EE8B93080280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5E1D6F4-33CD-49B3-A7C2-EE8B93080280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08C28756-C776-4C33-864F-1F22C7821DF7}
+	EndGlobalSection
+EndGlobal
